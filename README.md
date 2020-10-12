@@ -40,7 +40,7 @@ The final RidgeCV model had an alpha of 10, R^2 of ~.37, and Mean Absolute Error
 
 [Final Presentation Slidedeck](https://github.com/Neda-Sal/tv_show_lifespan/blob/master/TV_Show_Lifespan_Slidedeck.pdf)
 
-# Appendix
+## Appendix
 
 [First EDA - Basic Model (Train set only)](https://github.com/Neda-Sal/tv_show_lifespan/blob/master/first_df_EDA_basic.ipynb)
 
