@@ -2,6 +2,13 @@
 
 The objective of my project was to predict the lifespan of a tv show. In particular, the question I wanted to answer was, "Can I predict the number of seasons a tv series will run for?"
 
+**Tools used:** Selenium, pandas, sklearn, statsmodels, yellowbrick
+
+**Features:** Release Year, Season 1 rating, Number of episodes per season, genre, MPAA Rating, production company (collected but not included in final model)
+
+**Target Variable:** Number of Seasons
+
+
 # Data Collection
 
 To start, I scraped data on 1,000 tv shows from [RatinGraph](https://www.ratingraph.com/tv-shows/). Then I scraped [IMDb](https://www.imdb.com/?ref_=nv_home) for the MPAA rating and production companies for each show I collecting from RatinGraph.
