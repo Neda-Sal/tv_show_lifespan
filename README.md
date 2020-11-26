@@ -1,4 +1,4 @@
-# tv_show_lifespan
+# TV Show Lifespan
 
 The objective of my project was to predict the lifespan of a tv show. In particular, the question I wanted to answer was, "Can I predict the number of seasons a tv series will run for?"
 
