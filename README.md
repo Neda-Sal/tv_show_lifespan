@@ -1,5 +1,7 @@
 # TV Show Lifespan
 
+Find blog post [here](https://towardsdatascience.com/can-we-predict-the-life-span-of-a-tv-show-212762ae7b8d).
+
 The objective of my project was to predict the lifespan of a tv show. In particular, the question I wanted to answer was, "Can I predict the number of seasons a tv series will run for?"
 
 **Tools used:** Selenium, pandas, sklearn, statsmodels, yellowbrick
